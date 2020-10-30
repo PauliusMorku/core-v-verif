@@ -1,0 +1,9 @@
+*/work
+*/.opt-rtl
+*/.lib-rtl
+*/trace_core_*.log
+*/transcript
+*/vsim.dbg
+*/vsim.wlf
+*/tr_db.log
+*/uvmt_cv32_tb

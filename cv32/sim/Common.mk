@@ -68,7 +68,7 @@ BANNER=*************************************************************************
 
 CV32E40P_REPO   ?= https://github.com/openhwgroup/cv32e40p
 CV32E40P_BRANCH ?= master
-CV32E40P_HASH   ?= 8dfe6f0
+CV32E40P_HASH   ?= 74618ccd911139605f175e57cc2cafe0885f1039
 
 RISCVDV_REPO    ?= https://github.com/google/riscv-dv
 RISCVDV_BRANCH  ?= master
